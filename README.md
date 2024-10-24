@@ -20,7 +20,12 @@ CommentClear — is a handy tool for removing comments from your code in the Vis
 - JavaScript
 - TypeScript
 - Python
+- HTML
 - CSS
+- C
+- C++
+- C#
+- Java
 
 ## Features
 
