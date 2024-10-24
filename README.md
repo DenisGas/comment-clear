@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![logo](./assets/icon.png)
+![logo](https://github.com/DenisGas/comment-clear/blob/main/assets/icon.png?raw=true)
 
 </div>
 
@@ -10,7 +10,7 @@ CommentClear — is a handy tool for removing comments from your code in the Vis
 
 ## Preview
 
-![Demo Video](assets/demo.mp4)
+![Demo Video](https://github.com/DenisGas/comment-clear/blob/main/assets/demo.mp4?raw=true)
 
 
 ## Supported file types
