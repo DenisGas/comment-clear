@@ -10,7 +10,7 @@ CommentClear — is a handy tool for removing comments from your code in the Vis
 
 ## Preview
 
-![Demo Video](https://github.com/DenisGas/comment-clear/blob/main/assets/demo.mp4?raw=true)
+![Demo Video](https://github.com/DenisGas/comment-clear/blob/main/assets/demo.gif?raw=true)
 
 
 ## Supported file types
