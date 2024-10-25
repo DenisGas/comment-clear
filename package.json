@@ -61,8 +61,12 @@
     "compile-tests": "tsc -p . --outDir out",
     "watch-tests": "tsc -p . -w --outDir out",
     "pretest": "npm run compile-tests && npm run compile && npm run lint",
-    "lint": "eslint src",
-    "test": "vscode-test"
+    "lint": "eslint src --fix",
+    "test": "vscode-test",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "**/*.{js,json,css,html}": "npm run lint"
   },
   "devDependencies": {
     "@types/mocha": "^10.0.9",
@@ -75,6 +79,8 @@
     "eslint": "^9.13.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.1",
+    "husky": "^9.1.6",
+    "lint-staged": "^15.2.10",
     "prettier": "^3.3.3",
     "ts-loader": "^9.5.1",
     "typescript": "^5.6.3",
