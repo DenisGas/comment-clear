@@ -9,6 +9,7 @@
 CommentClear — is a handy tool for removing comments from your code in the Visual Studio Code editor. The extension supports comment removal for several programming languages, making it an indispensable tool for developers.
 
 ## Preview
+
 <div align=center>
 
 ![Demo Video](https://github.com/DenisGas/comment-clear/blob/main/assets/demo.gif?raw=true)

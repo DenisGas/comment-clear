@@ -1,2 +1,2 @@
 npx lint-staged
-npm test
+node test-if-changed.js
