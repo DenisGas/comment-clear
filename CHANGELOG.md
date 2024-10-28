@@ -10,6 +10,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Implemented a command to remove comments via the editor's context menu.
 - Added tests to verify the functionality of comment removal.
 
-## [1.0.0] - 2024-10-24
+## [1.0.0] - 2024-10-28
 
 - Initial release of the "comment-clear" extension.
+
+## [1.0.1] - 2024-10-28
+
+- File size has been reduced, and the README has been updated.

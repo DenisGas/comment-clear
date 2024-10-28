@@ -3,7 +3,7 @@
   "displayName": "CommentClear",
   "description": "A handy tool to remove comments from your code.",
   "publisher": "DenisGasilo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.94.0"
   },
